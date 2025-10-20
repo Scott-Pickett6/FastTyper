@@ -1,4 +1,4 @@
 # FastTyper
 
-Guided Coursera project
+Guided Coursera project.\n
 Typing game built using Java Swing
